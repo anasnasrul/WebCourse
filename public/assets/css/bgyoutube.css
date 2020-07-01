@@ -1,0 +1,9 @@
+.wrapper
+{
+  width:auto;
+    height:100%;
+    background-image:url('/assets/img/bgyoutube.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    overflow:hidden;
+}
