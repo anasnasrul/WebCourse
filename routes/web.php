@@ -38,7 +38,11 @@ Route::get('/course/youtube', 'YoutubeController@index' );
 //Course Udemy
 Route::get('/course/udemy', 'UdemyController@index' );
 
+	//Course Udemy AWS Cloud
 	Route::get('/course/udemy/awscloud', 'AWSCloudController@index' );
+
+	//Course Udemy AWS Cloud 2
+	Route::get('/course/udemy/awscloud2', 'AWSCloudController@index2' );
 
 //Course Sololearn
 Route::get('/course/sololearn', 'SololearnController@index' );

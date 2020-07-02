@@ -27,6 +27,23 @@
 				</div>
 				</div>
 			</div>
+			<div class="logo">
+				<div class="dropdown" align="center">
+	  					<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    					Youtube
+	    			</button>
+					<div class="dropdown-menu" aria-labelledby="dropdownMenu2">					
+						    <ul class="list-group">
+								<li class="list-group-item list-group-item-primary">
+								    <a href="/course/udemy" class="dropdown-item"><img src="/assets/img/iconudemy.jpg" height="16px"> Udemy</a>						
+								</li>							
+								<li class="list-group-item list-group-item-primary">					    
+								    <a href="/course/sololearn" class="dropdown-item"><img src="/assets/img/iconsololearn.jpg" height="16px"></i> Sololearn</a>	
+								</li>					
+					    	</ul>
+					</div>
+				</div>	
+			</div>
 			<div id="list-example" class="list-group">
 					@foreach ($javayoutube1 as $javayoutube1s)
 				  	<a class="list-group-item list-group-item-action" href="/course/youtube/java"><img src="/assets/img/iconjava.jpg" class="rounded-circle" height="16px">&nbsp {{ $javayoutube1s->title }}</a>

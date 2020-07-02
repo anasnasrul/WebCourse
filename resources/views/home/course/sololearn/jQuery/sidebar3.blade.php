@@ -27,6 +27,23 @@
 				</div>
 				</div>
 			</div>
+			<div class="logo">
+				<div class="dropdown" align="center">
+	  					<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    					Sololearn
+	    			</button>
+					<div class="dropdown-menu" aria-labelledby="dropdownMenu2">					
+						    <ul class="list-group">
+								<li class="list-group-item list-group-item-primary">
+								    <a href="/course/udemy" class="dropdown-item"><img src="/assets/img/iconudemy.jpg" height="16px"> Udemy</a>						
+								</li>							
+								<li class="list-group-item list-group-item-primary">					    
+								    <a href="/course/youtube" class="dropdown-item"><img src="/assets/img/iconyoutube.jpg" height="16px"></i> Youtube</a>	
+								</li>					
+					    	</ul>
+					</div>
+				</div>	
+			</div>
 			<br>				
   				<div class="dropdown" align="center">
 	  				<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
