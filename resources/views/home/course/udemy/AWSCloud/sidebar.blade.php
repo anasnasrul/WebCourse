@@ -7,16 +7,16 @@
     					Udemy
     			</button>
 				<div class="dropdown-menu" aria-labelledby="dropdownMenu2">					
-					    <ul class="list-group">							
+					    <ul class="list-group">			
+					    	<li class="list-group-item list-group-item-primary">					    
+							    <a href="/course/udemy/python"><img src="/assets/img/iconpython.jpg" class="rounded-circle" height="16px"> Python </a>
+							</li>				
 							<li class="list-group-item list-group-item-primary">					    
 							    <a href="/course/sololearn/html"><img src="/assets/img/iconhtml.jpg" class="rounded-circle" height="16px"> HTML Fundamentals </a>
 							</li>
 							<li class="list-group-item list-group-item-primary">					    
 							    <a href="/course/sololearn/javascript"><img src="/assets/img/iconjavascript.jpg" class="rounded-circle" height="16px"> JavaScript Tutorial </a>
-							</li>
-							<li class="list-group-item list-group-item-primary">					    
-							    <a href="/course/sololearn/python3"><img src="/assets/img/iconpython.jpg" class="rounded-circle" height="16px"> Python 3 Tutorial </a>
-							</li>
+							</li>							
 							<li class="list-group-item list-group-item-primary">					    
 							    <a href="/course/sololearn/php"><img src="/assets/img/iconphp.jpg" class="rounded-circle" height="16px"> PHP Tutorial </a>
 							</li>
