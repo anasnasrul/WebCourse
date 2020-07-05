@@ -13,6 +13,9 @@
 							</li>		
 							<li class="list-group-item list-group-item-primary">					    
 							    <a href="/course/udemy/java"><img src="/assets/img/iconjava.jpg" class="rounded-circle" height="16px"> Java </a>
+							</li>
+							<li class="list-group-item list-group-item-primary">					    
+							    <a href="/course/udemy/net"><img src="/assets/img/iconnet.jpg" class="rounded-circle" height="16px"> Net </a>
 							</li>											
 				    	</ul>
 				</div>

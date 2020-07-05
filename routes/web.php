@@ -49,6 +49,9 @@ Route::get('/course/udemy', 'UdemyController@index' );
 	//Course Udemy Python
 	Route::get('/course/udemy/java', 'JavaUdemyController@index' );
 
+	//Course Udemy Net
+	Route::get('/course/udemy/net', 'NetUdemyController@index' );
+
 //Course Sololearn
 Route::get('/course/sololearn', 'SololearnController@index' );
 	//Course Sololearn HTML

@@ -13,7 +13,10 @@
 							</li>
 							<li class="list-group-item list-group-item-primary">					    
 							    <a href="/course/udemy/python"><img src="/assets/img/iconpython.jpg" class="rounded-circle" height="16px"> Python </a>
-							</li>											
+							</li>		
+							<li class="list-group-item list-group-item-primary">					    
+							    <a href="/course/udemy/net"><img src="/assets/img/iconnet.jpg" class="rounded-circle" height="16px"> Net </a>
+							</li>									
 				    	</ul>
 				</div>
 				</div>
