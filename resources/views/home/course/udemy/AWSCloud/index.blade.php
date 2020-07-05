@@ -40,7 +40,7 @@
                 <div class="col-md-12"> 
                     <div class="card">
                         <div class="header" align="center">
-                            <img src="/assets/img/bannerudemy.jpg" widht="80px" height="50px">                    
+                                               
                         </div>
                     </div>
                 </div>
@@ -58,12 +58,12 @@
         <footer class="footer">
             <div class="container-fluid">
                 <nav class="pull-left">
-                    <ul>
-                        <li>
-                            <a href="/portfolio" class="ti-folder">
-                                Portfolio
-                            </a>
-                        </li>                        
+                    <ul class="list-group">                        
+                        <li class="list-group-item list-group-item-primary">
+                            Thanks to: <img src="/assets/img/bannerudemy.jpg" height="20px">&nbsp
+                            <img src="/assets/img/banneryoutube.jpg" height="20px">&nbsp
+                            <img src="/assets/img/sololearn.jpg" height="20px">                   
+                        </li>                         
                     </ul>
                 </nav>
                 <div class="copyright pull-right">
